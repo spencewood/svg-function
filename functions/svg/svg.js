@@ -1,3 +1,5 @@
+process.env.FONTCONFIG_PATH = "/var/task/functions/svg";
+
 const sharp = require("sharp");
 
 exports.handler = async function (event, context) {

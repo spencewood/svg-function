@@ -1,0 +1,16 @@
+{
+  "name": "svg-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "netlify dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-cli": "^3.37.6",
+    "sharp": "^0.28.3"
+  }
+}

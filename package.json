@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@netlify/build": "11.36.0",
     "netlify-cli": "^3.37.6",
     "sharp": "^0.28.3"
   }
